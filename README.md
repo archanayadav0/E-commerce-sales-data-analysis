@@ -3,3 +3,10 @@
 This data analysis project aims to provide insights into the sales performance of an e-commerce store over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 ### Data Source
 Sales Data: The primary dataset used for this analysis is the "Sample_Superstore.csv" file, containing detailed information about each sale made by the store.
+### Tools
+- Python Pandas - Data Analysis
+- Matplotlib, Seaborn - Data Visualization
+### Data Cleaning
+In the Intial phase,we Performed the following tasks:
+
+
