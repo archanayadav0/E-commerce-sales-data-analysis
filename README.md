@@ -1,4 +1,9 @@
 # E Commerce Sales Analysis
+### Table of content
+- [Project-Aim](#project-aim)
+- [Result/Findings](#result-findings)
+- [Recommendation](#recommendation)
+
 ### Project Aim
 This data analysis project aims to provide insights into the sales performance of an e-commerce store over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 ### Data Source
@@ -43,8 +48,25 @@ In the Intial phase,we Performed the following tasks:
  - First Class: Moderate usage
  - Same Day: Lowest usage
    
- (2.)Customer Segment:
-  Understanding these segments can help tailor marketing and service strategies to each group’s specific needs.
+ (2.) Customer Segment:
+ - Understanding these segments can help tailor marketing and service strategies to each group’s specific needs.
+
+ (3.) Sales Volume by Category:
+- office supplies are the top sellers, which aligns with their high profit margins.
+- Furniture and technology, while not as high in sales volume, still contribute significantly to overall revenue.
+
+(4.)Annual Sales Trends:
+- A consistent increase in sales each year indicates positive business growth and an expanding customer base.
+
+(5.)Profit by Category:
+- Technology products lead in profitability, suggesting they are a key focus area for maximizing revenue.
+- Efforts should be made to increase profitability in supplies and furniture categories, possibly through cost optimization or value-added services.
+
+  ### Recommendation
+ - Maintain cost-effective shipping for furniture and supplies, while ensuring that high-value technology products are delivered promptly to meet customer expectations.
+ - Develop targeted marketing campaigns for different customer segments to improve engagement and retention.
+ - Continue tracking annual sales data to identify patterns and opportunities for growth.
+ - Explore ways to enhance the profitability of the technology and furniture categories, such as negotiating better shipping rates, improving operational efficiency, or offering premium options.
   
  
 
